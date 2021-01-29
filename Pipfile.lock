@@ -1,0 +1,39 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ec88209e083e9d7051af985d66fca9cd8dffbf19561fccffac5fe4a2d94e4ef1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "ctx": {
+            "hashes": [
+                "sha256:beb1628d6624b19c04a065fab6751feace594fd4072b3e649cafdd765182e441",
+                "sha256:edbff45647936da3cdadcfeaa64ee9f62b8ad629a5cea8caa4b63f5dc08b99c4"
+            ],
+            "index": "pypi",
+            "version": "==0.1.2"
+        },
+        "py-mini-racer": {
+            "hashes": [
+                "sha256:01fde5f2bcd9eaeac627f6bdb12f15e6ae94928cd3cd3c68bfd541fda0bb774d",
+                "sha256:127bb4f93455a61022bb6a411699eae44ce21916ae41957acec700c53a160349",
+                "sha256:2cd819d97d00dada6ff02442f90cd3388d28b8e4bdc76e1d33c577d8f98cc642",
+                "sha256:8a54370c98ec7584389604bedcb2879e6a12eb9aa363b7119b96b2f182ec59f9"
+            ],
+            "index": "pypi",
+            "version": "==0.4.0"
+        }
+    },
+    "develop": {}
+}
